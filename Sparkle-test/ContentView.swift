@@ -7,10 +7,17 @@
 
 import SwiftUI
 
+extension Bundle {
+    var buildNumber: String {
+        return infoDictionary?["CFBundleVersion"] as! String
+    }
+}
+
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
+        Text("\(Bundle.main.buildNumber)")
             .padding()
+            .frame(width: 300, height: 200)
     }
 }
 
