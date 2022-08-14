@@ -4,11 +4,11 @@
         <title>Sparkle-test</title>
         <item>
             <title>1.0</title>
-            <pubDate>Sun, 14 Aug 2022 17:08:21 +0200</pubDate>
-            <sparkle:version>1.0</sparkle:version>
+            <pubDate>Sun, 14 Aug 2022 18:21:38 +0200</pubDate>
+            <sparkle:version>0.9</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/matteospada/Sparkle-test/releases/download/prod/Sparkle-test.dmg" length="1158188" type="application/octet-stream" sparkle:edSignature="B+bD2uZg3kzv+b4X9weLTZkVECVWRw+cx4CCRfQXacR6pZiVq+PyUbFFS+EYUN3XJHoprZ9TFUFNlGsCVxCIDg=="/>
+            <enclosure url="https://github.com/matteospada/Sparkle-test/releases/download/prod/Sparkle-test.dmg" length="1158216" type="application/octet-stream" sparkle:edSignature="oWFwERaPlCdZvBQYE+PSOKO5mwkqsmlYJN1JqM3OKgyyxmZ9IIgynxk/eTGoivq4SGXeL8Pp7RH0Odr7alvPAw=="/>
         </item>
     </channel>
 </rss>
